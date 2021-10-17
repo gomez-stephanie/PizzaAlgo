@@ -7,3 +7,6 @@
 5. Wait for delivery
 6. Greet deliver driver
 7. See step 4b if necessary
+8. If we are going to pay at door
+    8a. Tip the driver for the pizza
+    8b. Lock the door behind you
